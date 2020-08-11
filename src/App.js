@@ -55,7 +55,7 @@ const addComment = (postId, comment) => {
     <div className='App'>
       {/* Add SearchBar and Posts here to render them */}
       {/* Check the implementation of each component, to see what props they require, if any! */}
-    <SearchBar/>
+    <SearchBar addComment={addComment}/>
     <Posts likePost={likePost} posts={posts}/>
     </div>
   );
