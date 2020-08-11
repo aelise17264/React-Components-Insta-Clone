@@ -1,11 +1,12 @@
 .comment-text {
   text-align: left;
   padding: 2px;
-  margin-left: 4px;
-  margin-bottom: 4px;
+  margin-left: 10px;
+  margin-bottom: 10px;
 }
 .comment {
-  font-size: 16px;
+  font-size: 14px;
+  
 }
 .comment-form  {
   margin: 10px 0;
