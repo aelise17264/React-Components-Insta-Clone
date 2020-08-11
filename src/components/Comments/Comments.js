@@ -15,6 +15,10 @@ const Comments = props => {
       key={comment.id}
       />
     )}
+    <input className = 'addComment'
+    placeholder = 'add comment'
+    />
+    <button>Comment</button>
     
     </div>
   );
