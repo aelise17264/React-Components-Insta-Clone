@@ -54,6 +54,36 @@ const dummyData = [
             },
         ],
     },
+    {
+        id: 3,
+        username: "elise17264",
+        thumbnailUrl: 'https://icon2.cleanpng.com/20180320/sqe/kisspng-twitch-computer-icons-streaming-media-youtube-live-tv-twitch-icon-5ab19172461392.001176751521586546287.jpg',
+        imageUrl: 'https://www.stewart.com/content/dam/stewart/Microsites/colorado-springs/images/colorado-springs-mobile.jpg',
+        likes: 250,
+        timestamp: "August 11, 2020, 12:42:40 pm",
+        comments: [  
+            {
+                id: 40,
+                username: "blackdogabk",
+                text: "Love this view",
+            },
+            {
+                id: 41,
+                username: "chris.y.andrews",
+                text: "Can't wait to come visit",
+            },
+            {
+                id: 42,
+                username: "candicebware22",
+                text: "Climb every meow-ntain",
+            },
+            {
+                id: 43,
+                username: "meagbailey",
+                text: "We're going there when I come visit in the spring!",
+            },
+        ]
+    }
 ];
 
 export default dummyData;
